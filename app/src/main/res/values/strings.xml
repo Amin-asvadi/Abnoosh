@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">آبنوش</string>
+    <string name="pref_notification_message_value">سلام ... بریم کمی آب بنوشیم ...</string>
+    <string name="add_info_text">لطفا اطلاعاتی از خود را برای عملکرد بهتر ارایه دهید ... !!</string>
+    <string name="str_continue">ادامه</string>
+    <string name="enter_your_name_hint">نام خود را وارد کنید</string>
+    <string name="age_hint">سن خود را وارد کنید</string>
+    <string name="weight_hint">وزن خود را وارد کنید</string>
+    <string name="custom_intake_hint">هدف مصرف سفارشی خود را در میلی لیتر وارد کنید</string>
+    <string name="workout_hint">زمان کار روزانه شما در روز / دقیقه</string>
+    <string name="wakeup_hint">زمان بیدار شدن شما</string>
+    <string name="sleeping_hint">زمان خوابیدن شما</string>
+    <string name="tagline_text">به شما اجازه می دهد تا هیدراته شوید ...</string>
+    <string name="get_started">شروع کنید</string>
+    <string name="edit_info_text">اطلاعات خود را ویرایش کنید</string>
+    <string name="update">بروز رسانی</string>
+    <string name="notif_setting_header">تنظیمات اعلان</string>
+    <string name="notif_messsage_hint">تنظیمات پیام</string>
+    <string name="notif_tone_hint">زنگ هشدار</string>
+    <string name="notif_freq_hint">فرکانس اعلان</string>
+    <string name="walkthrough_text_one">آب 60 درصد از وزن بدن شما است. بدن شما به آب بستگی دارد
+    </string>
+    <string name="walkthough_text_two">کمبود آب می تواند به کم آبی بدن منجر شود. حتی کم آبی بدن نیز می تواند شما را تخلیه کند
+    </string>
+    <string name="walkthrough_text_three">هر سلول ، بافت و اندامی در بدن شما برای کار صحیح نیاز به آب دارد.
+    </string>
+    <string name="target" translatable="false">هدف</string>
+</resources>
